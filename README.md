@@ -1,2 +1,2 @@
-# hello-world
-My first Git test repo.
+# Jack’s Git Test
+Learning Git basics — following Cognizant onboarding :)
